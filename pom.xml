@@ -40,7 +40,7 @@
 		</plugins>
 	</build>
 	<scm>
-		<developerConnection>scm:git:git@github.com:Shree36123/sftp-pet-clinic</developerConnection>
+		<developerConnection>scm:git:git@github.com/Shree36123/sftp-pet-clinic</developerConnection>
 	  <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 </project>
